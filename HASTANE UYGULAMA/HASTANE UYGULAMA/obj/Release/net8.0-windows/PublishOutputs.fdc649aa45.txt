@@ -1,0 +1,34 @@
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\HASTANE UYGULAMA.exe
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\HASTANE UYGULAMA.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\HASTANE UYGULAMA.deps.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\HASTANE UYGULAMA.runtimeconfig.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\HASTANE UYGULAMA.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\BouncyCastle.Crypto.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\itextsharp.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\System.Web.DataVisualization.Design.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\System.Web.DataVisualization.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\System.Windows.Forms.DataVisualization.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\Microsoft.Office.Interop.Excel.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\System.Data.OleDb.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\ZedGraph.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\de\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\es\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\fr\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\hu\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\it\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\ja\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\pt\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\ru\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\sk\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\sv\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\tr\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\zh-CN\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\zh-TW\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\LOGİCLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\DATAACCESSLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Release\net8.0-windows\publish\LOGİCLAYER.pdb

@@ -1,0 +1,12 @@
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\bin\Release\net8.0\ENTİTYLAYER.deps.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\bin\Release\net8.0\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\bin\Release\net8.0\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.csproj.AssemblyReference.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.AssemblyInfoInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.AssemblyInfo.cs
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\refint\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\entitylayer\obj\Release\net8.0\ref\ENTİTYLAYER.dll

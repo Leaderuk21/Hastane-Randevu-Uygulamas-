@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvfdbP7VymVNatWQ4mmZWKj0uBJBC09ORQgkKATOG4DQ2tAHpWTDCD1gks1sNdz94cwkGbruXZCYz0ew2FD/9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ukara\\OneDrive\\Masaüstü\\YAPTIĞIM PROJELER\\HASTANE UYGULAMA\\entitylayer\\ENTİTYLAYER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukara\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\ukara\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\ukara\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\ukara\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\ukara\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\ukara\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZedGraph 5.1.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

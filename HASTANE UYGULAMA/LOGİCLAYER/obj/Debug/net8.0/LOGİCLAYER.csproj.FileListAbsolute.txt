@@ -1,0 +1,17 @@
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.csproj.AssemblyReference.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.AssemblyInfoInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.AssemblyInfo.cs
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.csproj.CoreCompileInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\LOGİCLAYER.deps.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\LOGİCLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\LOGİCLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\DATAACCESSLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\bin\Debug\net8.0\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.csproj.Up2Date
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\refint\LOGİCLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\LOGİCLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\LOGİCLAYER\obj\Debug\net8.0\ref\LOGİCLAYER.dll

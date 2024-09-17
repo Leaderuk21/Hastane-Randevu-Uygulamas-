@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Doktoranasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doktorlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doktorişlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Genel Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grafikler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hastarapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Randevugüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Randevuoluştur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sekreteranasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sekreterişlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sekreterlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

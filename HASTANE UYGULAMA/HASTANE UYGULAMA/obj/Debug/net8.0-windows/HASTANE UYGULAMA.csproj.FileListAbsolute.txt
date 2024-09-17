@@ -1,0 +1,57 @@
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\HASTANE UYGULAMA.exe
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\HASTANE UYGULAMA.deps.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\HASTANE UYGULAMA.runtimeconfig.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\HASTANE UYGULAMA.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\HASTANE UYGULAMA.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.csproj.GenerateResource.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.AssemblyInfoInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.AssemblyInfo.cs
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.csproj.CoreCompileInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\refint\HASTANE UYGULAMA.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.genruntimeconfig.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\ref\HASTANE UYGULAMA.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Doktoranasayfa.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Doktorlogin.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Properties.Resources.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE UYGULAMA.csproj.AssemblyReference.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Doktorişlemleri.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Genel_Giriş.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Hastarapor.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Randevugüncelle.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Randevuoluştur.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Sekreteranasayfa.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Sekreterişlemleri.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE_UYGULAMA.Sekreterlogin.resources
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\System.Web.DataVisualization.Design.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\System.Web.DataVisualization.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\LOGİCLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\DATAACCESSLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\LOGİCLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\obj\Debug\net8.0-windows\HASTANE .89E067AC.Up2Date
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\ZedGraph.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\de\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\es\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\fr\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\hu\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\it\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\ja\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\pt\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\ru\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\sk\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\sv\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\tr\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\zh-CN\ZedGraph.resources.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\HASTANE UYGULAMA\bin\Debug\net8.0-windows\zh-TW\ZedGraph.resources.dll

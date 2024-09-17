@@ -1,0 +1,15 @@
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\bin\Release\net8.0\DATAACCESSLAYER.deps.json
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\bin\Release\net8.0\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\bin\Release\net8.0\DATAACCESSLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\bin\Release\net8.0\ENTİTYLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\bin\Release\net8.0\ENTİTYLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.csproj.AssemblyReference.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.AssemblyInfoInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.AssemblyInfo.cs
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.csproj.CoreCompileInputs.cache
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCE.B2F56C61.Up2Date
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\refint\DATAACCESSLAYER.dll
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\DATAACCESSLAYER.pdb
+C:\Users\ukara\OneDrive\Masaüstü\HASTANE UYGULAMA\DATAACCESSLAYER\obj\Release\net8.0\ref\DATAACCESSLAYER.dll
